@@ -1,2 +1,2 @@
 print("Python is awesome")
-print("it's not java. it's python")
+print("it is  not java. it's python")
